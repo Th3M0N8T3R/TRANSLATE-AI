@@ -1,0 +1,823 @@
+﻿1
+00:00:31,719 --> 00:00:33,179
+Hey mom.
+
+2
+00:00:34,619 --> 00:00:36,899
+Sorry I haven't come by in a while.
+
+3
+00:00:36,899 --> 00:00:38,299
+Things have been...
+
+4
+00:00:38,299 --> 00:00:40,419
+Well, things have been pretty busy.
+
+5
+00:00:41,079 --> 00:00:42,879
+Oh! Dad's here too.
+
+6
+00:00:43,219 --> 00:00:45,560
+He's, you know...
+
+7
+00:00:45,560 --> 00:00:46,560
+dad.
+
+8
+00:00:47,359 --> 00:00:52,659
+He's still teaching at Signal, but he told me he's going to be going out on some mission soon.
+
+9
+00:00:52,659 --> 00:00:55,159
+I think he misses adventuring with you.
+
+10
+00:00:57,619 --> 00:00:59,339
+I miss you too.
+
+11
+00:01:02,159 --> 00:01:04,359
+Haven't gotten kicked out of Beacon yet!
+
+12
+00:01:04,840 --> 00:01:06,240
+So that's cool.
+
+13
+00:01:07,640 --> 00:01:10,359
+I think being on a team with Yang helps.
+
+14
+00:01:10,359 --> 00:01:12,179
+I keep her in line.
+
+15
+00:01:13,120 --> 00:01:14,700
+That was a joke.
+
+16
+00:01:14,939 --> 00:01:19,340
+She's actually a really great fighter, you can tell she's learned a lot from Dad.
+
+17
+00:01:20,260 --> 00:01:23,700
+Well so are Weiss and Blake. Oh! They're my teammates.
+
+18
+00:01:23,700 --> 00:01:26,560
+Together, we form Team RWBY.
+
+19
+00:01:26,840 --> 00:01:30,939
+And yes, before you ask, that does cause a lot of confusion...
+
+20
+00:01:31,359 --> 00:01:34,459
+Anyways, uh, I made a bunch of new friends,
+
+21
+00:01:34,459 --> 00:01:35,959
+and I met some...
+
+22
+00:01:35,959 --> 00:01:39,159
+...let's just say, odd teachers.
+
+23
+00:01:39,959 --> 00:01:42,559
+Oh! We've also stopped some bad guys too!
+
+24
+00:01:43,140 --> 00:01:47,060
+I guess it's like they say: Like mother, like daughter.
+
+25
+00:01:50,200 --> 00:01:53,239
+I still wonder why Ozpin let me into the school early.
+
+26
+00:01:53,239 --> 00:01:53,240
+But uh, I guess he'll tell me one day. You know how he is.
+I still wonder why Ozpin let me into the school early.
+
+27
+00:01:53,240 --> 00:01:57,959
+But uh, I guess he'll tell me one day. You know how he is.
+
+28
+00:01:57,959 --> 00:02:02,239
+It's funny, the more I get to know him, the more he starts sounding like uncle Qrow.
+
+29
+00:02:04,719 --> 00:02:07,560
+Oh! Look's like Dad's back. I gotta go!
+
+30
+00:02:07,780 --> 00:02:11,979
+He's dropping me off at Beacon for the tournament match before he goes on his next mission!
+
+31
+00:02:11,979 --> 00:02:13,139
+Wish me luck!
+
+32
+00:02:19,680 --> 00:02:21,540
+It was good to talk.
+
+33
+00:02:29,500 --> 00:02:31,020
+Rest in peace Monty Oum
+
+34
+00:02:57,960 --> 00:03:02,680
+O-HO! It seems we have another astonishing bout ahead of us!
+
+35
+00:03:02,680 --> 00:03:04,439
+Wouldn't you agree, Professor?
+
+36
+00:03:04,580 --> 00:03:05,219
+Doctor.
+
+37
+00:03:05,219 --> 00:03:07,120
+And yes, Peter, I think it's safe to say:
+
+38
+00:03:07,120 --> 00:03:10,840
+this match may be one of the closest we've seen in the four-and-four round of the tournament!
+
+39
+00:03:10,840 --> 00:03:13,580
+For those of you just now joining us,
+
+40
+00:03:13,580 --> 00:03:17,180
+Welcome to the Vytal Festival Tournament!
+
+41
+00:03:19,000 --> 00:03:22,919
+Broadcast live from the Amity Colosseum!
+
+42
+00:03:37,500 --> 00:03:42,300
+If this is your first time watching, allow us to break down the rules.
+
+43
+00:03:42,300 --> 00:03:45,120
+The tournament is divided into three distinctive rounds.
+
+44
+00:03:45,120 --> 00:03:46,780
+Teams, doubles, and singles.
+
+45
+00:03:46,780 --> 00:03:48,680
+Age and school year are irrelevant.
+
+46
+00:03:48,680 --> 00:03:52,180
+In this tournament, the only attribute being tested... is skill.
+
+47
+00:03:52,180 --> 00:03:53,340
+Correct!
+
+48
+00:03:53,340 --> 00:03:58,460
+The winners of this battle will elect two of their members to represent them in the doubles round.
+
+49
+00:03:58,460 --> 00:04:03,319
+Followed by the winners of that round choosing one member to advance once again!
+
+50
+00:04:03,319 --> 00:04:03,320
+The remaining combatants will then fight their way through the final bracket
+Followed by the winners of that round choosing one member to advance once again!
+
+51
+00:04:03,320 --> 00:04:08,159
+The remaining combatants will then fight their way through the final bracket
+
+52
+00:04:08,159 --> 00:04:11,900
+in the hope of achieving victory for their kingdom!
+
+53
+00:04:11,900 --> 00:04:16,399
+And yes, Peter, these certainly are some spectacular spectacles on which to spectate on.
+
+54
+00:04:16,399 --> 00:04:20,279
+And I don't think anyone tuning in around the world is going to disagree with me on that.
+
+55
+00:04:20,279 --> 00:04:22,399
+Ah, and why would they?
+
+56
+00:04:22,399 --> 00:04:26,919
+Now, let's get back to the match between Team RWBY of Beacon,
+
+57
+00:04:26,920 --> 00:04:28,939
+and Team ABRN of Haven.
+
+58
+00:05:23,379 --> 00:05:24,420
+Got your back!
+
+59
+00:05:24,759 --> 00:05:26,199
+Who's got yours?
+
+60
+00:05:31,819 --> 00:05:32,860
+My BFF!
+
+61
+00:05:32,860 --> 00:05:33,480
+No.
+
+62
+00:05:35,540 --> 00:05:36,560
+Yes!
+
+63
+00:06:04,420 --> 00:06:05,439
+Whaaat?
+
+64
+00:06:42,899 --> 00:06:46,120
+Ooooh, double whammy!
+
+65
+00:06:46,120 --> 00:06:50,339
+Reese Chloris is eliminated by ring-out AND Aura level!
+
+66
+00:06:50,339 --> 00:06:50,340
+OHH she really should've worn a helmet.
+Reese Chloris is eliminated by ring-out AND Aura level!
+
+67
+00:06:50,340 --> 00:06:52,419
+OHH she really should've worn a helmet.
+
+68
+00:07:40,120 --> 00:07:40,939
+Yang!
+
+69
+00:07:44,199 --> 00:07:44,839
+Now!
+
+70
+00:08:05,040 --> 00:08:05,640
+Yes!
+
+71
+00:08:06,300 --> 00:08:07,780
+And that's the match!
+
+72
+00:08:07,780 --> 00:08:09,939
+Team RWBY is victorious!
+
+73
+00:08:09,939 --> 00:08:11,339
+We did it?
+
+74
+00:08:15,560 --> 00:08:18,139
+WE DID IIIIIIIIIIIIIII--
+
+75
+00:08:18,139 --> 00:08:20,620
+--is anyone else starving?
+
+76
+00:08:20,620 --> 00:08:22,639
+I may have worked up an appetite.
+
+77
+00:08:25,379 --> 00:08:29,180
+Gee, if only there were somewhere on campus to get food around here.
+
+78
+00:08:31,120 --> 00:08:32,360
+Oh, wait.
+
+79
+00:08:32,899 --> 00:08:35,959
+It's okay, Weiss. I forget about the fairgrounds too.
+
+80
+00:08:35,960 --> 00:08:37,799
+I was being facetious.
+
+81
+00:08:37,799 --> 00:08:37,800
+Wh-- Well, if you were hungry, why didn't you say so!?
+I was being facetious.
+
+82
+00:08:37,800 --> 00:08:41,399
+Wh-- Well, if you were hungry, why didn't you say so!?
+
+83
+00:08:41,399 --> 00:08:43,500
+C'mon! I know just the place.
+
+84
+00:08:51,440 --> 00:08:54,260
+Hey! Might be hard to eat without this!
+
+85
+00:08:54,260 --> 00:08:57,480
+Huh? No, no no no.
+
+86
+00:08:57,480 --> 00:08:59,759
+Ha ha ha, good to see you, Ruby.
+
+87
+00:09:00,799 --> 00:09:02,519
+Oh, thanks, Emerald!
+
+88
+00:09:02,519 --> 00:09:06,120
+Guess I dropped it. Guh, girl pockets are the worst!
+
+89
+00:09:06,120 --> 00:09:07,139
+What's up, Em?
+
+90
+00:09:07,139 --> 00:09:11,259
+Just left the stadium after watching your amazing fight. You guys were awesome!
+
+91
+00:09:11,259 --> 00:09:14,399
+Oh stop it. shut your little stupid face
+
+92
+00:09:14,460 --> 00:09:16,700
+I heard your team progressed the next round, too.
+
+93
+00:09:16,700 --> 00:09:19,480
+You know, I feel like we never see your other teammates.
+
+94
+00:09:19,480 --> 00:09:21,019
+How'd they do in the fight?
+
+95
+00:09:32,639 --> 00:09:34,379
+Hmm, hmm.
+
+96
+00:09:35,799 --> 00:09:37,099
+Really well.
+
+97
+00:09:37,100 --> 00:09:40,519
+That's great! Uh, why don't we all go out and get some victory food together?
+
+98
+00:09:40,519 --> 00:09:43,819
+Oh! Gosh, that's so nice of you but,
+
+99
+00:09:43,820 --> 00:09:47,420
+my teammates are all kind of... introverted.
+
+100
+00:09:50,960 --> 00:09:53,680
+Really socially awkward.
+
+101
+00:09:54,059 --> 00:09:57,039
+Oooh, yeah. I could see that.
+
+102
+00:09:57,039 --> 00:10:01,559
+So yeah. Looks like Merc and I will be moving on to the Doubles round. What about you guys?
+
+103
+00:10:01,559 --> 00:10:05,459
+Well as the leader of this team, I thought long and hard about this decision.
+
+104
+00:10:05,460 --> 00:10:06,860
+We put it to a vote.
+
+105
+00:10:06,860 --> 00:10:10,419
+Uhh yes but I decided that we should put it to a vote.
+
+106
+00:10:10,419 --> 00:10:11,719
+We voted for Weiss and Yang.
+
+107
+00:10:11,720 --> 00:10:13,800
+I will happily represent Team RWBY.
+
+108
+00:10:13,800 --> 00:10:15,839
+Yeah, we're gonna kick some butt!
+
+109
+00:10:17,139 --> 00:10:20,439
+Well, if Mercury and I see you down the line, don't think we'll go easy on ya.
+
+110
+00:10:20,440 --> 00:10:22,540
+Wouldn't have it any other way.
+
+111
+00:10:22,540 --> 00:10:24,879
+Alright. Well, we're gonna go catch some more fights.
+
+112
+00:10:24,879 --> 00:10:26,139
+Have fun!
+
+113
+00:10:26,139 --> 00:10:27,199
+See ya later!
+
+114
+00:10:29,980 --> 00:10:32,440
+So how are the new "friends"?
+
+115
+00:10:32,440 --> 00:10:33,419
+I hate them.
+
+116
+00:10:33,419 --> 00:10:33,420
+Orders are orders.
+I hate them.
+
+117
+00:10:33,420 --> 00:10:35,059
+Orders are orders.
+
+118
+00:10:35,059 --> 00:10:38,879
+I just-- How can they be so happy all the time!?
+
+119
+00:10:38,879 --> 00:10:40,480
+Did you at least get what we want?
+
+120
+00:10:40,480 --> 00:10:42,120
+It's the heiress and the bimbo.
+
+121
+00:10:42,120 --> 00:10:45,759
+Hmm, alright. At least now we know who we're workin' with.
+
+122
+00:10:53,580 --> 00:10:56,060
+I'll have a bowl of the regular, please.
+
+123
+00:10:57,259 --> 00:10:59,700
+Ooooh. I'll take the same.
+
+124
+00:11:00,580 --> 00:11:03,440
+Hmm... Do you have anything with a low salt--
+
+125
+00:11:03,460 --> 00:11:06,420
+Ah! Umm... okay?
+
+126
+00:11:18,720 --> 00:11:20,800
+Aww Weiss! What's the occassion?
+
+127
+00:11:20,800 --> 00:11:23,639
+Consider it thanks for sending me to the Doubles round.
+
+128
+00:11:28,899 --> 00:11:31,799
+What? How can my card be declined?
+
+129
+00:11:31,799 --> 00:11:34,179
+I was barely into my monthly allowance.
+
+130
+00:11:35,120 --> 00:11:36,519
+Nooo...
+
+131
+00:11:36,659 --> 00:11:38,339
+Maybe I could help?
+
+132
+00:11:39,879 --> 00:11:40,939
+Pyrrha!
+
+133
+00:11:40,940 --> 00:11:42,440
+Aw, you don't have to!
+
+134
+00:11:42,440 --> 00:11:43,600
+BUT SHE COULD!
+
+135
+00:11:43,600 --> 00:11:47,360
+Well, I think you all earned it after that battle.
+
+136
+00:11:47,360 --> 00:11:48,899
+Mind if we join you?
+
+137
+00:12:02,659 --> 00:12:05,159
+Are you sure it's wise to have eaten before a fight?
+
+138
+00:12:05,159 --> 00:12:07,919
+Of course! It will give us energy.
+
+139
+00:12:10,919 --> 00:12:14,059
+Ughhh if I barf I'm blaming you.
+
+140
+00:12:14,059 --> 00:12:15,979
+Oh! Aim it at the enemy!
+
+141
+00:12:15,980 --> 00:12:19,159
+Nora! That's disgusting. But if you do feel the urge...
+
+142
+00:12:19,159 --> 00:12:20,120
+Got it.
+
+143
+00:12:20,120 --> 00:12:21,980
+Well, we should be off.
+
+144
+00:12:21,980 --> 00:12:23,519
+So, you think you guys are ready?
+
+145
+00:12:23,840 --> 00:12:24,899
+Of course!
+
+146
+00:12:24,899 --> 00:12:29,639
+We've got a world-renowned fighter on our team, what's basically a ninja, I can bench five of me,
+
+147
+00:12:29,899 --> 00:12:30,919
+...Jaune,
+
+148
+00:12:31,120 --> 00:12:33,759
+we've trained all year, our weapons are awesome,
+
+149
+00:12:33,759 --> 00:12:36,700
+Glynda barely yells at us anymore, and uh...
+
+150
+00:12:37,320 --> 00:12:38,220
+Jaune!
+
+151
+00:12:38,620 --> 00:12:40,299
+Are you gonna take that?
+
+152
+00:12:41,240 --> 00:12:43,480
+She's not wrong...
+
+153
+00:12:43,899 --> 00:12:47,000
+I'm kidding! He knows I'm kidding.
+
+154
+00:12:47,000 --> 00:12:50,139
+Don't be so nervous! The worst that could happen is we lose!
+
+155
+00:12:50,139 --> 00:12:53,419
+Then it's just a few more years of walking around school with everyone knowing we're failures
+
+156
+00:12:53,419 --> 00:12:55,839
+our friends will slowly abandon us to preserve their social status,
+
+157
+00:12:55,840 --> 00:12:57,620
+we won't be able to show our faces in class,
+
+158
+00:12:57,620 --> 00:12:59,279
+no one will sit with us in the cafeteria,
+
+159
+00:12:59,279 --> 00:13:02,179
+Ren and I have no parents, we have no home left to go to
+
+160
+00:13:02,179 --> 00:13:05,039
+we'll be officially renamed Team LOSE-iper
+
+161
+00:13:12,419 --> 00:13:16,059
+Sooo yeah. We're feeling pretty good.
+
+162
+00:13:16,059 --> 00:13:17,219
+Don't fret.
+
+163
+00:13:17,220 --> 00:13:22,240
+If anything, we should be looking forward to a fight with actual guidelines and not...
+
+164
+00:13:22,480 --> 00:13:24,300
+...well, murderers.
+
+165
+00:13:24,300 --> 00:13:27,120
+Yeah, don't sweat it! We've all faced way worse before.
+
+166
+00:13:27,120 --> 00:13:32,360
+Let's see: Grimm invasions, violent extremists, a destructive sociopath.
+
+167
+00:13:32,360 --> 00:13:37,139
+And that's all while we were still in training! Oh, imagine what it'll be like when we graduate!
+
+168
+00:13:37,139 --> 00:13:39,539
+Maybe then I'll be able to pay for a meal...
+
+169
+00:13:39,539 --> 00:13:43,360
+Would Team JNPR please report to the battle grounds immediately.
+
+170
+00:13:43,360 --> 00:13:47,179
+Yes! Like they were scheduled to several minutes ago!
+
+171
+00:13:47,179 --> 00:13:47,180
+Well, it looks like this is it.
+Yes! Like they were scheduled to several minutes ago!
+
+172
+00:13:47,180 --> 00:13:49,839
+Well, it looks like this is it.
+
+173
+00:13:51,899 --> 00:13:53,179
+Go get 'em!
+
+174
+00:14:27,379 --> 00:14:29,139
+I wonder who's gonna win.
+
+175
+00:14:29,139 --> 00:14:31,480
+Tch. As if we didn't already know.
+
+176
+00:14:32,039 --> 00:14:35,919
+Oh, come now. Even if you know how a story ends,
+
+177
+00:14:35,919 --> 00:14:38,860
+that doesn't make it any less fun to watch.
+
+178
+00:14:45,840 --> 00:14:48,040
+Team JNPR of Beacon
+
+179
+00:14:48,040 --> 00:14:51,699
+versus Team BRNZ (Bronze) of Shade!
+
+180
+00:15:23,039 --> 00:15:23,899
+Three...
+
+181
+00:15:24,480 --> 00:15:25,300
+Two...
+
+182
+00:15:26,019 --> 00:15:26,879
+One...
+
+183
+00:15:26,879 --> 00:15:27,799
+Wooo!
+
+184
+00:15:27,799 --> 00:15:29,019
+BEGIN!
+
+185
+00:15:41,700 --> 00:15:43,879
+♪ Maybe red's like roses ♪
+
+186
+00:15:43,879 --> 00:15:46,720
+♪ Maybe it's the pool of blood ♪
+
+187
+00:15:46,720 --> 00:15:48,460
+♪ the innocents will lay in ♪
+
+188
+00:15:48,460 --> 00:15:50,340
+♪ when in the end you fail to save them ♪
+
+189
+00:15:50,340 --> 00:15:52,879
+♪ Their dying eyes ♪
+
+190
+00:15:52,879 --> 00:15:55,559
+♪ are wide and white like snow ♪
+
+191
+00:15:55,559 --> 00:15:59,379
+♪ And now they know the cost of trusting you's obliteration ♪
+
+192
+00:16:00,519 --> 00:16:03,720
+♪ Mirrors will shatter, ♪
+
+193
+00:16:04,700 --> 00:16:07,700
+♪ crushed by the weight of the world ♪
+
+194
+00:16:08,539 --> 00:16:15,120
+♪ The pillars collapse in shame ♪
+
+195
+00:16:15,120 --> 00:16:17,320
+♪ There'll be no rest ♪
+
+196
+00:16:17,320 --> 00:16:19,480
+♪ There'll be no love ♪
+
+197
+00:16:19,480 --> 00:16:23,639
+♪ There'll be no hero in the end who will rise above ♪
+
+198
+00:16:23,639 --> 00:16:25,720
+♪ And when it ends, ♪
+
+199
+00:16:25,720 --> 00:16:28,179
+♪ the good will crawl ♪
+
+200
+00:16:28,179 --> 00:16:28,180
+♪ The shining light will sink in darkness ♪
+♪ the good will crawl ♪
+
+201
+00:16:28,180 --> 00:16:30,519
+♪ The shining light will sink in darkness ♪
+
+202
+00:16:30,519 --> 00:16:32,579
+♪ Victory for hate incarnate ♪
+
+203
+00:16:32,580 --> 00:16:36,820
+♪ Misery and pain for all ♪
+
+204
+00:16:36,820 --> 00:16:47,879
+♪ When it falls ♪
+

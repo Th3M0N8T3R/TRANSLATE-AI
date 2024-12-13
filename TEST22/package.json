@@ -1,0 +1,26 @@
+{
+  "name": "gender-detection",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hebrew text gender detection system",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "nlp",
+    "gender-detection",
+    "hebrew"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
